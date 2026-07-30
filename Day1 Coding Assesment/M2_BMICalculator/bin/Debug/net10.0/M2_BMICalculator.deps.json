@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "M2_BMICalculator/1.0.0": {
+        "runtime": {
+          "M2_BMICalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M2_BMICalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

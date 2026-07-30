@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "M1_CompoundInterest/1.0.0": {
+        "runtime": {
+          "M1_CompoundInterest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "M1_CompoundInterest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

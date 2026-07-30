@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\bin\Debug\net10.0\M3_LogLineParser.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\bin\Debug\net10.0\M3_LogLineParser.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\bin\Debug\net10.0\M3_LogLineParser.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\bin\Debug\net10.0\M3_LogLineParser.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\bin\Debug\net10.0\M3_LogLineParser.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\M3_LogLineParser.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\M3_LogLineParser.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\M3_LogLineParser.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\M3_LogLineParser.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\M3_LogLineParser.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\M3_LogLineParser.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\refint\M3_LogLineParser.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\M3_LogLineParser.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\M3_LogLineParser.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M3_LogLineParser\obj\Debug\net10.0\ref\M3_LogLineParser.dll

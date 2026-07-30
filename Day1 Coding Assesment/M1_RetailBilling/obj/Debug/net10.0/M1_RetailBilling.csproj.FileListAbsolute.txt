@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\bin\Debug\net10.0\M1_RetailBilling.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\bin\Debug\net10.0\M1_RetailBilling.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\bin\Debug\net10.0\M1_RetailBilling.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\bin\Debug\net10.0\M1_RetailBilling.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\bin\Debug\net10.0\M1_RetailBilling.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\M1_RetailBilling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\M1_RetailBilling.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\M1_RetailBilling.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\M1_RetailBilling.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\M1_RetailBilling.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\M1_RetailBilling.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\refint\M1_RetailBilling.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\M1_RetailBilling.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\M1_RetailBilling.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M1_RetailBilling\obj\Debug\net10.0\ref\M1_RetailBilling.dll

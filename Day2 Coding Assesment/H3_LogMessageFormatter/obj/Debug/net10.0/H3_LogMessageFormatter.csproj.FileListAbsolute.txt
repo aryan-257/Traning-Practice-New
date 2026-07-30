@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\bin\Debug\net10.0\H3_LogMessageFormatter.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\bin\Debug\net10.0\H3_LogMessageFormatter.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\bin\Debug\net10.0\H3_LogMessageFormatter.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\bin\Debug\net10.0\H3_LogMessageFormatter.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\bin\Debug\net10.0\H3_LogMessageFormatter.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\H3_LogMessageFormatter.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\H3_LogMessageFormatter.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\H3_LogMessageFormatter.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\H3_LogMessageFormatter.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\H3_LogMessageFormatter.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\H3_LogMessageFormatter.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\refint\H3_LogMessageFormatter.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\H3_LogMessageFormatter.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\H3_LogMessageFormatter.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H3_LogMessageFormatter\obj\Debug\net10.0\ref\H3_LogMessageFormatter.dll

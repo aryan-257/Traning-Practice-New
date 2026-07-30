@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\bin\Debug\net10.0\H4_RiskScoreCalculator.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\bin\Debug\net10.0\H4_RiskScoreCalculator.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\bin\Debug\net10.0\H4_RiskScoreCalculator.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\bin\Debug\net10.0\H4_RiskScoreCalculator.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\bin\Debug\net10.0\H4_RiskScoreCalculator.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\H4_RiskScoreCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\H4_RiskScoreCalculator.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\H4_RiskScoreCalculator.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\H4_RiskScoreCalculator.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\H4_RiskScoreCalculator.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\H4_RiskScoreCalculator.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\refint\H4_RiskScoreCalculator.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\H4_RiskScoreCalculator.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\H4_RiskScoreCalculator.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H4_RiskScoreCalculator\obj\Debug\net10.0\ref\H4_RiskScoreCalculator.dll

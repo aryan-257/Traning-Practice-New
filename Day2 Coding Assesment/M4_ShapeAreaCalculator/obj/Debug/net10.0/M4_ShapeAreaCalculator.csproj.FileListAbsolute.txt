@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\bin\Debug\net10.0\M4_ShapeAreaCalculator.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\bin\Debug\net10.0\M4_ShapeAreaCalculator.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\bin\Debug\net10.0\M4_ShapeAreaCalculator.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\bin\Debug\net10.0\M4_ShapeAreaCalculator.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\bin\Debug\net10.0\M4_ShapeAreaCalculator.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\M4_ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\M4_ShapeAreaCalculator.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\M4_ShapeAreaCalculator.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\M4_ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\M4_ShapeAreaCalculator.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\M4_ShapeAreaCalculator.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\refint\M4_ShapeAreaCalculator.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\M4_ShapeAreaCalculator.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\M4_ShapeAreaCalculator.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M4_ShapeAreaCalculator\obj\Debug\net10.0\ref\M4_ShapeAreaCalculator.dll

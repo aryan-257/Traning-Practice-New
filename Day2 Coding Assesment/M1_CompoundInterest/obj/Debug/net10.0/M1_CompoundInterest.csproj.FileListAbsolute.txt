@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\bin\Debug\net10.0\M1_CompoundInterest.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\bin\Debug\net10.0\M1_CompoundInterest.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\bin\Debug\net10.0\M1_CompoundInterest.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\bin\Debug\net10.0\M1_CompoundInterest.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\bin\Debug\net10.0\M1_CompoundInterest.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\M1_CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\M1_CompoundInterest.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\M1_CompoundInterest.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\M1_CompoundInterest.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\M1_CompoundInterest.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\M1_CompoundInterest.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\refint\M1_CompoundInterest.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\M1_CompoundInterest.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\M1_CompoundInterest.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M1_CompoundInterest\obj\Debug\net10.0\ref\M1_CompoundInterest.dll

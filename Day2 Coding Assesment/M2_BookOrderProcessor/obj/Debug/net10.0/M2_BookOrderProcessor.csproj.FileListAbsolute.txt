@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\bin\Debug\net10.0\M2_BookOrderProcessor.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\bin\Debug\net10.0\M2_BookOrderProcessor.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\bin\Debug\net10.0\M2_BookOrderProcessor.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\bin\Debug\net10.0\M2_BookOrderProcessor.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\bin\Debug\net10.0\M2_BookOrderProcessor.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\M2_BookOrderProcessor.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\M2_BookOrderProcessor.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\M2_BookOrderProcessor.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\M2_BookOrderProcessor.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\M2_BookOrderProcessor.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\M2_BookOrderProcessor.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\refint\M2_BookOrderProcessor.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\M2_BookOrderProcessor.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\M2_BookOrderProcessor.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M2_BookOrderProcessor\obj\Debug\net10.0\ref\M2_BookOrderProcessor.dll

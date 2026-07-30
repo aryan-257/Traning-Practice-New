@@ -1,6 +1,0 @@
-@Hands_On_Lab_HostAddress = http://localhost:5213
-
-GET {{Hands_On_Lab_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

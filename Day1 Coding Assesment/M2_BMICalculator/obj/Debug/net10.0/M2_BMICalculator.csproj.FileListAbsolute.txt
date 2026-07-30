@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\bin\Debug\net10.0\M2_BMICalculator.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\bin\Debug\net10.0\M2_BMICalculator.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\bin\Debug\net10.0\M2_BMICalculator.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\bin\Debug\net10.0\M2_BMICalculator.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\bin\Debug\net10.0\M2_BMICalculator.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\M2_BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\M2_BMICalculator.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\M2_BMICalculator.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\M2_BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\M2_BMICalculator.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\M2_BMICalculator.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\refint\M2_BMICalculator.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\M2_BMICalculator.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\M2_BMICalculator.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day1 Coding Assesment\M2_BMICalculator\obj\Debug\net10.0\ref\M2_BMICalculator.dll

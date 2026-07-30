@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\bin\Debug\net10.0\M5_MathOperations.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\bin\Debug\net10.0\M5_MathOperations.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\bin\Debug\net10.0\M5_MathOperations.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\bin\Debug\net10.0\M5_MathOperations.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\bin\Debug\net10.0\M5_MathOperations.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\M5_MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\M5_MathOperations.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\M5_MathOperations.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\M5_MathOperations.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\M5_MathOperations.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\M5_MathOperations.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\refint\M5_MathOperations.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\M5_MathOperations.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\M5_MathOperations.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\M5_MathOperations\obj\Debug\net10.0\ref\M5_MathOperations.dll

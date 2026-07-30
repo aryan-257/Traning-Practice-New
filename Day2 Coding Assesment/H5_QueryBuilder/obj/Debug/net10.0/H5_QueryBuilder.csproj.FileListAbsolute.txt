@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\bin\Debug\net10.0\H5_QueryBuilder.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\bin\Debug\net10.0\H5_QueryBuilder.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\bin\Debug\net10.0\H5_QueryBuilder.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\bin\Debug\net10.0\H5_QueryBuilder.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\bin\Debug\net10.0\H5_QueryBuilder.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\H5_QueryBuilder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\H5_QueryBuilder.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\H5_QueryBuilder.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\H5_QueryBuilder.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\H5_QueryBuilder.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\H5_QueryBuilder.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\refint\H5_QueryBuilder.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\H5_QueryBuilder.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\H5_QueryBuilder.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H5_QueryBuilder\obj\Debug\net10.0\ref\H5_QueryBuilder.dll

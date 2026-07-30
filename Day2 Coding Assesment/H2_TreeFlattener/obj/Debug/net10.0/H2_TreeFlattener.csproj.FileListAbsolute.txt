@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\bin\Debug\net10.0\H2_TreeFlattener.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\bin\Debug\net10.0\H2_TreeFlattener.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\bin\Debug\net10.0\H2_TreeFlattener.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\bin\Debug\net10.0\H2_TreeFlattener.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\bin\Debug\net10.0\H2_TreeFlattener.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\H2_TreeFlattener.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\H2_TreeFlattener.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\H2_TreeFlattener.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\H2_TreeFlattener.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\H2_TreeFlattener.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\H2_TreeFlattener.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\refint\H2_TreeFlattener.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\H2_TreeFlattener.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\H2_TreeFlattener.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H2_TreeFlattener\obj\Debug\net10.0\ref\H2_TreeFlattener.dll

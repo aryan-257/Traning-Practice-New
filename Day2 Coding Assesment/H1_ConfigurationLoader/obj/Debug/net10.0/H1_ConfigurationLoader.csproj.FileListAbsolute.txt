@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\bin\Debug\net10.0\H1_ConfigurationLoader.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\bin\Debug\net10.0\H1_ConfigurationLoader.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\bin\Debug\net10.0\H1_ConfigurationLoader.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\bin\Debug\net10.0\H1_ConfigurationLoader.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\bin\Debug\net10.0\H1_ConfigurationLoader.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\H1_ConfigurationLoader.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\H1_ConfigurationLoader.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\H1_ConfigurationLoader.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\H1_ConfigurationLoader.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\H1_ConfigurationLoader.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\H1_ConfigurationLoader.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\refint\H1_ConfigurationLoader.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\H1_ConfigurationLoader.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\H1_ConfigurationLoader.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day2 Coding Assesment\H1_ConfigurationLoader\obj\Debug\net10.0\ref\H1_ConfigurationLoader.dll
