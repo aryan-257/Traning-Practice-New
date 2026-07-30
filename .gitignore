@@ -1,15 +1,8 @@
-# Build output
+
 bin/
 obj/
-*.user
-*.suo
+*.dll
+*.exe
+*.pdb
 .vs/
-
-# NuGet
-*.nupkg
-*.snupkg
-packages/
-
-# IDE
 .vscode/
-*.DotSettings.user
