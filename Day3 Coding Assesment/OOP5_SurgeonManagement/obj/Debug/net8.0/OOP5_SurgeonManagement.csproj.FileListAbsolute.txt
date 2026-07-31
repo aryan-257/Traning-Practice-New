@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\bin\Debug\net8.0\OOP5_SurgeonManagement.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\bin\Debug\net8.0\OOP5_SurgeonManagement.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\bin\Debug\net8.0\OOP5_SurgeonManagement.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\bin\Debug\net8.0\OOP5_SurgeonManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\bin\Debug\net8.0\OOP5_SurgeonManagement.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\OOP5_SurgeonManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\OOP5_SurgeonManagement.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\OOP5_SurgeonManagement.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\OOP5_SurgeonManagement.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\OOP5_SurgeonManagement.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\OOP5_SurgeonManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\refint\OOP5_SurgeonManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\OOP5_SurgeonManagement.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\OOP5_SurgeonManagement.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP5_SurgeonManagement\obj\Debug\net8.0\ref\OOP5_SurgeonManagement.dll

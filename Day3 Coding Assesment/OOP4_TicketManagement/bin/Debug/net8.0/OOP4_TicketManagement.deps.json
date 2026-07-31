@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OOP4_TicketManagement/1.0.0": {
+        "runtime": {
+          "OOP4_TicketManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OOP4_TicketManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

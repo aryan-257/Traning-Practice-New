@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\bin\Debug\net8.0\OOP10_MarineCompany.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\bin\Debug\net8.0\OOP10_MarineCompany.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\bin\Debug\net8.0\OOP10_MarineCompany.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\bin\Debug\net8.0\OOP10_MarineCompany.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\bin\Debug\net8.0\OOP10_MarineCompany.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\OOP10_MarineCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\OOP10_MarineCompany.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\OOP10_MarineCompany.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\OOP10_MarineCompany.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\OOP10_MarineCompany.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\OOP10_MarineCompany.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\refint\OOP10_MarineCompany.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\OOP10_MarineCompany.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\OOP10_MarineCompany.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP10_MarineCompany\obj\Debug\net8.0\ref\OOP10_MarineCompany.dll

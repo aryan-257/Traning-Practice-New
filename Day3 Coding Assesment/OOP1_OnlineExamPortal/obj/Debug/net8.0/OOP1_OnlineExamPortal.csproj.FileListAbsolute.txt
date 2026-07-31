@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\bin\Debug\net8.0\OOP1_OnlineExamPortal.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\bin\Debug\net8.0\OOP1_OnlineExamPortal.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\bin\Debug\net8.0\OOP1_OnlineExamPortal.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\bin\Debug\net8.0\OOP1_OnlineExamPortal.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\bin\Debug\net8.0\OOP1_OnlineExamPortal.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\OOP1_OnlineExamPortal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\OOP1_OnlineExamPortal.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\OOP1_OnlineExamPortal.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\OOP1_OnlineExamPortal.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\OOP1_OnlineExamPortal.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\OOP1_OnlineExamPortal.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\refint\OOP1_OnlineExamPortal.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\OOP1_OnlineExamPortal.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\OOP1_OnlineExamPortal.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP1_OnlineExamPortal\obj\Debug\net8.0\ref\OOP1_OnlineExamPortal.dll

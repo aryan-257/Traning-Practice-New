@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\bin\Debug\net8.0\OOP9_FestManagement.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\bin\Debug\net8.0\OOP9_FestManagement.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\bin\Debug\net8.0\OOP9_FestManagement.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\bin\Debug\net8.0\OOP9_FestManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\bin\Debug\net8.0\OOP9_FestManagement.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\OOP9_FestManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\OOP9_FestManagement.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\OOP9_FestManagement.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\OOP9_FestManagement.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\OOP9_FestManagement.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\OOP9_FestManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\refint\OOP9_FestManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\OOP9_FestManagement.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\OOP9_FestManagement.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP9_FestManagement\obj\Debug\net8.0\ref\OOP9_FestManagement.dll

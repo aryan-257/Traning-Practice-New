@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\bin\Debug\net8.0\OOP2_TrainingProgram.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\bin\Debug\net8.0\OOP2_TrainingProgram.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\bin\Debug\net8.0\OOP2_TrainingProgram.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\bin\Debug\net8.0\OOP2_TrainingProgram.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\bin\Debug\net8.0\OOP2_TrainingProgram.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\OOP2_TrainingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\OOP2_TrainingProgram.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\OOP2_TrainingProgram.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\OOP2_TrainingProgram.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\OOP2_TrainingProgram.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\OOP2_TrainingProgram.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\refint\OOP2_TrainingProgram.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\OOP2_TrainingProgram.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\OOP2_TrainingProgram.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP2_TrainingProgram\obj\Debug\net8.0\ref\OOP2_TrainingProgram.dll

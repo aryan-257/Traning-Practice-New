@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\bin\Debug\net8.0\OOP8_CricketTournament.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\bin\Debug\net8.0\OOP8_CricketTournament.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\bin\Debug\net8.0\OOP8_CricketTournament.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\bin\Debug\net8.0\OOP8_CricketTournament.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\bin\Debug\net8.0\OOP8_CricketTournament.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\OOP8_CricketTournament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\OOP8_CricketTournament.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\OOP8_CricketTournament.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\OOP8_CricketTournament.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\OOP8_CricketTournament.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\OOP8_CricketTournament.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\refint\OOP8_CricketTournament.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\OOP8_CricketTournament.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\OOP8_CricketTournament.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP8_CricketTournament\obj\Debug\net8.0\ref\OOP8_CricketTournament.dll

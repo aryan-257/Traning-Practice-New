@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\bin\Debug\net8.0\OOP7_ShoeCollection.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\bin\Debug\net8.0\OOP7_ShoeCollection.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\bin\Debug\net8.0\OOP7_ShoeCollection.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\bin\Debug\net8.0\OOP7_ShoeCollection.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\bin\Debug\net8.0\OOP7_ShoeCollection.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\OOP7_ShoeCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\OOP7_ShoeCollection.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\OOP7_ShoeCollection.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\OOP7_ShoeCollection.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\OOP7_ShoeCollection.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\OOP7_ShoeCollection.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\refint\OOP7_ShoeCollection.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\OOP7_ShoeCollection.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\OOP7_ShoeCollection.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP7_ShoeCollection\obj\Debug\net8.0\ref\OOP7_ShoeCollection.dll

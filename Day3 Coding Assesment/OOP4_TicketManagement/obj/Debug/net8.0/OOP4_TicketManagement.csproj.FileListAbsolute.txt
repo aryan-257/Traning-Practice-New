@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\bin\Debug\net8.0\OOP4_TicketManagement.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\bin\Debug\net8.0\OOP4_TicketManagement.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\bin\Debug\net8.0\OOP4_TicketManagement.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\bin\Debug\net8.0\OOP4_TicketManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\bin\Debug\net8.0\OOP4_TicketManagement.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\OOP4_TicketManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\OOP4_TicketManagement.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\OOP4_TicketManagement.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\OOP4_TicketManagement.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\OOP4_TicketManagement.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\OOP4_TicketManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\refint\OOP4_TicketManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\OOP4_TicketManagement.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\OOP4_TicketManagement.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP4_TicketManagement\obj\Debug\net8.0\ref\OOP4_TicketManagement.dll

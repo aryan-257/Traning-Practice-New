@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\bin\Debug\net8.0\OOP6_HotelManagement.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\bin\Debug\net8.0\OOP6_HotelManagement.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\bin\Debug\net8.0\OOP6_HotelManagement.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\bin\Debug\net8.0\OOP6_HotelManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\bin\Debug\net8.0\OOP6_HotelManagement.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\OOP6_HotelManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\OOP6_HotelManagement.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\OOP6_HotelManagement.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\OOP6_HotelManagement.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\OOP6_HotelManagement.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\OOP6_HotelManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\refint\OOP6_HotelManagement.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\OOP6_HotelManagement.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\OOP6_HotelManagement.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day3 Coding Assesment\OOP6_HotelManagement\obj\Debug\net8.0\ref\OOP6_HotelManagement.dll
