@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Q17_LibraryManagement/1.0.0": {
+        "runtime": {
+          "Q17_LibraryManagement.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q17_LibraryManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

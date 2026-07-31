@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\bin\Debug\net8.0\Q34_BikeRental.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\bin\Debug\net8.0\Q34_BikeRental.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\bin\Debug\net8.0\Q34_BikeRental.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\bin\Debug\net8.0\Q34_BikeRental.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\bin\Debug\net8.0\Q34_BikeRental.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\Q34_BikeRental.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\Q34_BikeRental.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\Q34_BikeRental.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\Q34_BikeRental.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\Q34_BikeRental.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\Q34_BikeRental.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\refint\Q34_BikeRental.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\Q34_BikeRental.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\Q34_BikeRental.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q34_BikeRental\obj\Debug\net8.0\ref\Q34_BikeRental.dll

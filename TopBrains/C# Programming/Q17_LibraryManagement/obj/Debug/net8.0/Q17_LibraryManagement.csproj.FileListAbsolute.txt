@@ -1,0 +1,15 @@
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\bin\Debug\net8.0\Q17_LibraryManagement.exe
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\bin\Debug\net8.0\Q17_LibraryManagement.deps.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\bin\Debug\net8.0\Q17_LibraryManagement.runtimeconfig.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\bin\Debug\net8.0\Q17_LibraryManagement.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\bin\Debug\net8.0\Q17_LibraryManagement.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\Q17_LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\Q17_LibraryManagement.AssemblyInfoInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\Q17_LibraryManagement.AssemblyInfo.cs
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\Q17_LibraryManagement.csproj.CoreCompileInputs.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\Q17_LibraryManagement.sourcelink.json
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\Q17_LibraryManagement.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\refint\Q17_LibraryManagement.dll
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\Q17_LibraryManagement.pdb
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\Q17_LibraryManagement.genruntimeconfig.cache
+c:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\TopBrains\Q17_LibraryManagement\obj\Debug\net8.0\ref\Q17_LibraryManagement.dll
