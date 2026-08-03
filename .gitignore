@@ -1,0 +1,12 @@
+# Build output folders - these cause OneDrive lock issues
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# NuGet packages
+packages/
+*.nupkg
