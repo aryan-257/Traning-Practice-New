@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\bin\Debug\net8.0\Q2_CacheManager.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\bin\Debug\net8.0\Q2_CacheManager.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\bin\Debug\net8.0\Q2_CacheManager.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\bin\Debug\net8.0\Q2_CacheManager.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\bin\Debug\net8.0\Q2_CacheManager.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\Q2_CacheManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\Q2_CacheManager.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\Q2_CacheManager.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\Q2_CacheManager.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\Q2_CacheManager.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\Q2_CacheManager.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\refint\Q2_CacheManager.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\Q2_CacheManager.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\Q2_CacheManager.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q2_CacheManager\obj\Debug\net8.0\ref\Q2_CacheManager.dll

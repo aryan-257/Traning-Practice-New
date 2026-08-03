@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\bin\Debug\net8.0\Q5_LibrarySystem.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\bin\Debug\net8.0\Q5_LibrarySystem.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\bin\Debug\net8.0\Q5_LibrarySystem.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\bin\Debug\net8.0\Q5_LibrarySystem.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\bin\Debug\net8.0\Q5_LibrarySystem.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\Q5_LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\Q5_LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\Q5_LibrarySystem.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\Q5_LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\Q5_LibrarySystem.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\Q5_LibrarySystem.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\refint\Q5_LibrarySystem.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\Q5_LibrarySystem.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\Q5_LibrarySystem.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q5_LibrarySystem\obj\Debug\net8.0\ref\Q5_LibrarySystem.dll

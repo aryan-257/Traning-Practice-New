@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\bin\Debug\net8.0\Q7_ShoppingCart.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\bin\Debug\net8.0\Q7_ShoppingCart.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\bin\Debug\net8.0\Q7_ShoppingCart.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\bin\Debug\net8.0\Q7_ShoppingCart.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\bin\Debug\net8.0\Q7_ShoppingCart.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\Q7_ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\Q7_ShoppingCart.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\Q7_ShoppingCart.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\Q7_ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\Q7_ShoppingCart.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\Q7_ShoppingCart.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\refint\Q7_ShoppingCart.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\Q7_ShoppingCart.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\Q7_ShoppingCart.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q7_ShoppingCart\obj\Debug\net8.0\ref\Q7_ShoppingCart.dll

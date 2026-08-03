@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\bin\Debug\net8.0\Q9_ReportGenerator.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\bin\Debug\net8.0\Q9_ReportGenerator.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\bin\Debug\net8.0\Q9_ReportGenerator.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\bin\Debug\net8.0\Q9_ReportGenerator.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\bin\Debug\net8.0\Q9_ReportGenerator.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\Q9_ReportGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\Q9_ReportGenerator.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\Q9_ReportGenerator.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\Q9_ReportGenerator.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\Q9_ReportGenerator.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\Q9_ReportGenerator.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\refint\Q9_ReportGenerator.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\Q9_ReportGenerator.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\Q9_ReportGenerator.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q9_ReportGenerator\obj\Debug\net8.0\ref\Q9_ReportGenerator.dll

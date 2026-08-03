@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\bin\Debug\net8.0\Q14_InventoryTracking.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\bin\Debug\net8.0\Q14_InventoryTracking.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\bin\Debug\net8.0\Q14_InventoryTracking.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\bin\Debug\net8.0\Q14_InventoryTracking.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\bin\Debug\net8.0\Q14_InventoryTracking.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\Q14_InventoryTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\Q14_InventoryTracking.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\Q14_InventoryTracking.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\Q14_InventoryTracking.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\Q14_InventoryTracking.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\Q14_InventoryTracking.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\refint\Q14_InventoryTracking.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\Q14_InventoryTracking.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\Q14_InventoryTracking.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q14_InventoryTracking\obj\Debug\net8.0\ref\Q14_InventoryTracking.dll

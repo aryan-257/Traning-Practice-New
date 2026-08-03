@@ -1,0 +1,15 @@
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\bin\Debug\net8.0\Q6_BankingProcessor.exe
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\bin\Debug\net8.0\Q6_BankingProcessor.deps.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\bin\Debug\net8.0\Q6_BankingProcessor.runtimeconfig.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\bin\Debug\net8.0\Q6_BankingProcessor.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\bin\Debug\net8.0\Q6_BankingProcessor.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\Q6_BankingProcessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\Q6_BankingProcessor.AssemblyInfoInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\Q6_BankingProcessor.AssemblyInfo.cs
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\Q6_BankingProcessor.csproj.CoreCompileInputs.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\Q6_BankingProcessor.sourcelink.json
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\Q6_BankingProcessor.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\refint\Q6_BankingProcessor.dll
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\Q6_BankingProcessor.pdb
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\Q6_BankingProcessor.genruntimeconfig.cache
+C:\Users\aryan\OneDrive\Desktop\Capgemeni Traning New\Day4 Coding Assesment\Q6_BankingProcessor\obj\Debug\net8.0\ref\Q6_BankingProcessor.dll

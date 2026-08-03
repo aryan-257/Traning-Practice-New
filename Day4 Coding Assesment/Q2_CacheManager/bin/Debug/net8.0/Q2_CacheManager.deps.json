@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Q2_CacheManager/1.0.0": {
+        "runtime": {
+          "Q2_CacheManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q2_CacheManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
